@@ -1,0 +1,5 @@
+print (200 + 250),' ======> Resultado da A'
+print (200 / 8),' ======> Resultado da B'
+print (200 * 7),' ======> Resultado da C'
+print (800 - 10),' ======> Resultado da D'
+print (2 ** 10),' ======> Resultado da E'
